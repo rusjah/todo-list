@@ -1,0 +1,29 @@
+.header {
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.header a {
+    text-decoration: none;
+    text-align: center;
+    padding: 0.5rem;
+    color: blue;
+}
+
+.header a:active,
+.header a:hover,
+.header a:focus {
+    text-decoration: none;
+    color: blue;
+}
+
+.header a + a:before
+{
+    content: '|';
+    color: blue;
+    padding-right: 1rem;
+}
