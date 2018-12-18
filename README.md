@@ -20,6 +20,6 @@ List of your cases created using the React.
 
 
 ## Link to github 
-[TodoList](https://rusjah.github.io/todo-list/?fbclid=IwAR3zRWlvEuuhGFlQOC_JKihR0W3JEVoKDh-JB_1yGdexBIuzCM2cgwHU7z4).
+* **[TodoList](https://rusjah.github.io/todo-list/?fbclid=IwAR3zRWlvEuuhGFlQOC_JKihR0W3JEVoKDh-JB_1yGdexBIuzCM2cgwHU7z4).
 
 
